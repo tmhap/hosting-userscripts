@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         PTP mafia gather votes
-// @version      0.42.1
+// @version      0.42.2
 // @description  Get a full list of the votes between two posts
 // @author       Chameleon
 // @include      http*passthepopcorn.me/forums.php?*action=viewthread*
 // @include      http*broadcasthe.net/forums.php?*action=viewthread*
 // @include      http*what.cd/forums.php?*action=viewthread*
-// @include      http*redacted.ch/forums.php?*action=viewthread*
+// @include      http*redacted.sh/forums.php?*action=viewthread*
 // @include      http*s15.zetaboards.com/Annon_Mafia/topic/10121488/*
 // @include      http*canalstreet.co/forums.php?*action=viewthread*
 // @include      http*gazellegames.net/forums.php?*action=viewthread*
